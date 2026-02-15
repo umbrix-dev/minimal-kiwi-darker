@@ -3,6 +3,8 @@
 ### A darker variant of the popular Minimal Kiwi theme for Visual Studio Code. This theme takes the beloved kiwi green aesthetic and deepens the background colors for even better contrast and reduced eye strain during long coding sessions.
 ---
 ![Preview](https://github.com/umbrix-dev/minimal-kiwi-darker/blob/main/assets/ui.png)
+---
+![Comparison](https://github.com/umbrix-dev/minimal-kiwi-darker/blob/main/assets/comparison.png)
 
 ### Features
 - Darker backgrounds
