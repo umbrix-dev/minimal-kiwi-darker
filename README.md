@@ -12,7 +12,7 @@ A darker variant of the popular Minimal Kiwi theme for Visual Studio Code. This 
 
 ### Installation
 #### This theme can currently only be installed from VSIX
-1. Download the .vsix file
+1. Download the latest .vsix file from the [releases](https://github.com/umbrix-dev/minimal-kiwi-darker/releases/tag/Release)
 2. Open VS Code
 3. Press ```Ctrl+Shift+P``` (Windows/Linux) or ```Cmd+Shift+P``` (Mac)
 4. Type "Extensions: Install from VSIX"
