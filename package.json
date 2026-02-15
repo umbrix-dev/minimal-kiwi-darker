@@ -1,0 +1,40 @@
+{
+    "name": "minimal-kiwi-darker",
+    "displayName": "Minimal Kiwi Darker",
+    "description": "Minimal Kiwi Darker is a darker variant of the original Minimal Kiwi theme",
+    "version": "1.0.0",
+    "publisher": "Umbrix",
+    "homepage": "https://github.com/umbrix-dev/minimal-kiwi-darker",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/umbrix-dev/minimal-kiwi-darker"
+    },
+    "bugs": {
+        "url": "https://github.com/umbrix-dev/minimal-kiwi-darker"
+    },
+    "keywords": [
+        "theme",
+        "minimal theme",
+        "modern theme",
+        "dark theme",
+        "umbrix",
+        "minimal dark theme",
+        "productivity",
+        "readability"
+    ],
+    "engines": {
+        "vscode": "^1.108.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Minimal Kiwi Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/minimal-kiwi-darker-theme.json"
+            }
+        ]
+    }
+}
